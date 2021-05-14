@@ -1,0 +1,1778 @@
+"Notes"	"County"	"County Code"	"Gender"	"Gender Code"	"Year"	"Year Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	% of Total Deaths
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	46	204139	22.5	27.7	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	70	112599	62.2	62.1	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	330	410372	80.4	66.5	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	42	209933	20.0	24.4	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	69	112100	61.6	61.1	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	341	410128	83.1	67.1	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	69	217317	31.8	38.2	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	88	112156	78.5	76.5	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	347	413139	84.0	67.8	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	67	223847	29.9	34.8	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	71	113192	62.7	63.1	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	292	416165	70.2	56.9	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	59	228929	25.8	29.1	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	61	113551	53.7	49.2	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	320	416083	76.9	61.8	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	55	237030	23.2	24.9	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	61	113353	53.8	54.2	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	340	419422	81.1	63.6	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	64	244992	26.1	26.4	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	69	113333	60.9	54.8	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	310	424057	73.1	57.3	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	73	253904	28.8	28.7	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	73	112818	64.7	58.2	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	316	428549	73.7	56.9	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	80	263505	30.4	29.3	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	76	111813	68.0	59.8	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	292	433977	67.3	50.1	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	86	272375	31.6	30.6	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	91	111140	81.9	72.0	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	339	437178	77.5	57.9	0.1%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	59	280406	21.0	20.0	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	71	109739	64.7	57.0	0.0%
+	"Alameda County, CA"	"06001"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	307	437366	70.2	52.9	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	42	189589	22.2	40.1	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	65	98714	65.8	94.1	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	278	411279	67.6	86.2	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	61	194546	31.4	52.4	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	60	98521	60.9	78.7	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	289	411723	70.2	89.0	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	71	200956	35.3	59.1	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	63	99138	63.5	84.1	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	267	414505	64.4	79.9	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	85	206944	41.1	66.3	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	56	100199	55.9	79.5	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	245	416940	58.8	71.0	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	67	211159	31.7	47.8	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	68	100934	67.4	88.6	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	251	417290	60.2	73.7	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	92	218194	42.2	61.6	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	69	100640	68.6	85.6	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	279	420463	66.4	77.6	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	77	225249	34.2	49.3	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	70	100571	69.6	91.5	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	268	424556	63.1	72.0	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	107	233540	45.8	62.2	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	82	100146	81.9	99.7	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	304	429388	70.8	79.1	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	81	242222	33.4	43.2	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	62	99985	62.0	70.3	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	307	434475	70.7	79.8	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	90	250633	35.9	47.0	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	67	99819	67.1	73.7	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	299	438407	68.2	76.4	0.1%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	101	258102	39.1	49.5	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	73	99256	73.5	85.1	0.0%
+	"Alameda County, CA"	"06001"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	257	439657	58.5	63.8	0.1%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	19	16569	114.7 (Unreliable)	64.1 (Unreliable)	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	21	16731	125.5	62.9	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	35	16645	210.3	110.3	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	30	16557	181.2	100.3	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	30	16501	181.8	90.1	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	33	16325	202.1	104.3	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	25	16195	154.4	73.2	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	17	16152	105.3 (Unreliable)	49.7 (Unreliable)	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	20	16197	123.5	58.4	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	25	16271	153.6	75.3	0.0%
+	"Amador County, CA"	"06005"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	19	16396	115.9 (Unreliable)	54.2 (Unreliable)	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	25	18944	132.0	102.9	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	17	19214	88.5 (Unreliable)	65.4 (Unreliable)	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	27	18860	143.2	105.3	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	11	18858	58.3 (Unreliable)	43.6 (Unreliable)	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	22	18806	117.0	79.0	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	27	18403	146.7	102.5	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	19	18191	104.4 (Unreliable)	66.1 (Unreliable)	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	24	17816	134.7	80.0	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	26	17853	145.6	82.5	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	31	17972	172.5	98.0	0.0%
+	"Amador County, CA"	"06005"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	21	18090	116.1	67.2	0.0%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	118	99771	118.3	73.2	0.0%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	121	99802	121.2	78.5	0.0%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	147	100299	146.6	93.3	0.1%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	146	100234	145.7	93.4	0.1%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	133	100141	132.8	82.7	0.1%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	139	99653	139.5	84.3	0.1%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	143	100226	142.7	83.6	0.1%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	120	100573	119.3	68.7	0.0%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	113	101283	111.6	69.2	0.0%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	137	101633	134.8	78.7	0.1%
+	"Butte County, CA"	"06007"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	118	102133	115.5	67.7	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	148	97029	152.5	134.6	0.1%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	118	96904	121.8	107.6	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	119	97446	122.1	106.9	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	116	97617	118.8	103.7	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	111	97515	113.8	98.1	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	116	97204	119.3	99.9	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	124	97603	127.0	107.0	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	142	97832	145.1	116.6	0.1%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	130	98441	132.1	105.1	0.1%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	103	98786	104.3	83.4	0.0%
+	"Butte County, CA"	"06007"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	99	99305	99.7	76.2	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	24	21878	109.7	70.3	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	22	22061	99.7	61.7	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	31	21963	141.1	84.0	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	22	21688	101.4	59.8	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	22	21577	102.0	65.7	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	19	21305	89.2 (Unreliable)	54.7 (Unreliable)	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	25	21108	118.4	68.2	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	26	21050	123.5	76.0	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	20	20993	95.3	53.8	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	17	21078	80.7 (Unreliable)	41.1 (Unreliable)	0.0%
+	"Calaveras County, CA"	"06009"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	35	21180	165.3	85.9	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	25	21850	114.4	97.8	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	21	21901	95.9	74.7	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	29	21933	132.2	110.8	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	24	21765	110.3	70.8	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	25	21579	115.9	81.7	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	19	21282	89.3 (Unreliable)	62.4 (Unreliable)	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	21	21082	99.6	63.3	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	24	20981	114.4	71.4	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	28	20992	133.4	72.1	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	26	21078	123.4	78.1	0.0%
+	"Calaveras County, CA"	"06009"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	27	21235	127.1	74.0	0.0%
+	"Colusa County, CA"	"06011"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	15	9691	154.8 (Unreliable)	131.9 (Unreliable)	0.0%
+	"Colusa County, CA"	"06011"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	10	9638	103.8 (Unreliable)	84.7 (Unreliable)	0.0%
+	"Colusa County, CA"	"06011"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	11	10194	107.9 (Unreliable)	130.7 (Unreliable)	0.0%
+	"Colusa County, CA"	"06011"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	12	10102	118.8 (Unreliable)	136.6 (Unreliable)	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	20	80773	24.8	33.0	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	30	55761	53.8	67.7	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	353	370516	95.3	71.6	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	13	83448	15.6 (Unreliable)	19.6 (Unreliable)	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	29	56540	51.3	62.6	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	348	371206	93.7	69.0	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	18	86880	20.7 (Unreliable)	26.1 (Unreliable)	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	28	57722	48.5	68.3	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	338	373607	90.5	66.4	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	17	90276	18.8 (Unreliable)	23.8 (Unreliable)	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	30	59000	50.8	62.0	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	345	376140	91.7	67.9	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	22	93030	23.6	29.5	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	26	59975	43.4	53.1	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	321	377905	84.9	60.5	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	11	97264	11.3 (Unreliable)	14.2 (Unreliable)	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	39	60751	64.2	70.6	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	302	381832	79.1	56.1	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	29	100302	28.9	31.5	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	30	60966	49.2	57.5	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	326	384624	84.8	59.1	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	23	103672	22.2	23.9	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	37	61760	59.9	65.7	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	313	388356	80.6	55.6	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	19	107309	17.7 (Unreliable)	17.8 (Unreliable)	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	30	62405	48.1	50.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	316	391328	80.8	54.5	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	28	110908	25.2	24.0	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	40	63321	63.2	62.9	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	352	393680	89.4	60.5	0.1%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	21	115026	18.3	17.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	43	63892	67.3	68.4	0.0%
+	"Contra Costa County, CA"	"06013"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	320	394574	81.1	52.8	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	22	72524	30.3	56.9	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	23	48581	47.3	80.9	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	282	361925	77.9	87.6	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	30	74826	40.1	71.4	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	23	49321	46.6	93.8	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	264	362550	72.8	79.6	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	27	78076	34.6	64.6	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	31	50521	61.4	108.6	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	291	364754	79.8	86.2	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	30	81010	37.0	65.0	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	23	51478	44.7	79.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	275	367438	74.8	78.2	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	23	83545	27.5	46.4	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	21	52370	40.1	59.9	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	262	369049	71.0	74.5	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	21	87226	24.1	38.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	35	53264	65.7	93.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	266	372688	71.4	73.5	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	30	89906	33.4	48.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	27	53658	50.3	79.3	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	249	375428	66.3	66.6	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	30	92825	32.3	45.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	27	54660	49.4	72.1	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	291	379156	76.7	75.2	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	35	96168	36.4	52.4	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	27	55446	48.7	76.9	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	264	382473	69.0	67.0	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	32	99573	32.1	40.2	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	31	56272	55.1	71.5	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	306	385214	79.4	75.4	0.1%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	38	103465	36.7	46.7	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	30	57113	52.5	62.5	0.0%
+	"Contra Costa County, CA"	"06013"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	259	386643	67.0	62.3	0.1%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	21	10672	196.8	143.1	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	13	10697	121.5 (Unreliable)	90.2 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	16	10657	150.1 (Unreliable)	104.3 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	18	10653	169.0 (Unreliable)	108.7 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	18	10553	170.6 (Unreliable)	105.6 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	16	10449	153.1 (Unreliable)	104.7 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	11	10293	106.9 (Unreliable)	79.1 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	19	10232	185.7 (Unreliable)	113.2 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	16	10221	156.5 (Unreliable)	93.9 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	13	10416	124.8 (Unreliable)	76.0 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	15	12864	116.6 (Unreliable)	132.6 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	17	12921	131.6 (Unreliable)	142.9 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	13	12947	100.4 (Unreliable)	102.0 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	12	12875	93.2 (Unreliable)	101.6 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	11	12809	85.9 (Unreliable)	71.5 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	14	12678	110.4 (Unreliable)	113.1 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	11	12499	88.0 (Unreliable)	88.1 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	15	12279	122.2 (Unreliable)	120.3 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	15	11912	125.9 (Unreliable)	129.6 (Unreliable)	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	23	11932	192.8	175.0	0.0%
+	"Del Norte County, CA"	"06015"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	25	12017	208.0	163.0	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	83	82539	100.6	85.2	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	55	82763	66.5	54.6	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	64	83260	76.9	62.8	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	75	83621	89.7	69.5	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	68	83636	81.3	63.0	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	72	83400	86.3	63.1	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	78	83228	93.7	64.7	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	80	83447	95.9	66.2	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	61	83938	72.7	49.0	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	71	84430	84.1	56.2	0.0%
+	"El Dorado County, CA"	"06017"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	71	84798	83.7	52.3	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	51	82647	61.7	65.6	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	73	82834	88.1	91.7	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	62	83385	74.4	76.4	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	62	83894	73.9	77.3	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	63	84190	74.8	70.9	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	63	83798	75.2	66.9	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	68	83434	81.5	70.0	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	70	83717	83.6	68.8	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	76	84253	90.2	73.9	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	98	84597	115.8	93.5	0.0%
+	"El Dorado County, CA"	"06017"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	73	84873	86.0	67.2	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	10	45858	21.8 (Unreliable)	28.8 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	12	27847	43.1 (Unreliable)	63.0 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	295	355993	82.9	79.9	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	28	47356	59.1	78.3	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	16	28341	56.5 (Unreliable)	84.0 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	272	359295	75.7	73.6	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	16	48991	32.7 (Unreliable)	40.5 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	12	29177	41.1 (Unreliable)	60.6 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	313	362789	86.3	80.8	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	20	50331	39.7	49.8	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	18	29701	60.6 (Unreliable)	86.2 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	276	366115	75.4	71.2	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	15	51497	29.1 (Unreliable)	36.2 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	14	30177	46.4 (Unreliable)	67.4 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	285	368224	77.4	72.3	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	22	52570	41.8	48.9	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	15	30340	49.4 (Unreliable)	72.6 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	274	372407	73.6	69.3	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	14	53119	26.4 (Unreliable)	30.1 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	15	30549	49.1 (Unreliable)	72.4 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	259	374901	69.1	64.3	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	17	54003	31.5 (Unreliable)	39.7 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	12	30628	39.2 (Unreliable)	53.4 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	292	377222	77.4	69.5	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	13	55229	23.5 (Unreliable)	26.3 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	15	30676	48.9 (Unreliable)	64.0 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	288	380060	75.8	68.8	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	18	56307	32.0 (Unreliable)	36.3 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	11	31139	35.3 (Unreliable)	47.3 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	276	383085	72.0	65.1	0.1%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	16	57337	27.9 (Unreliable)	28.4 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	12	31436	38.2 (Unreliable)	51.0 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	270	385622	70.0	61.2	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	23	44769	51.4	97.3	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	19	27750	68.5 (Unreliable)	146.3 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	232	356912	65.0	91.4	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	22	46199	47.6	87.0	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	10	28353	35.3 (Unreliable)	70.7 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	235	360280	65.2	89.5	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	21	47937	43.8	75.9	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	10	29162	34.3 (Unreliable)	68.3 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	239	363578	65.7	88.3	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	17	49186	34.6 (Unreliable)	62.9 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	11	29840	36.9 (Unreliable)	67.1 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	242	366321	66.1	85.9	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	24	50430	47.6	86.0	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	16	30363	52.7 (Unreliable)	93.0 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	241	368207	65.5	86.3	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	27	51352	52.6	81.0	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	15	30246	49.6 (Unreliable)	96.7 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	245	371542	65.9	85.7	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	12	51913	23.1 (Unreliable)	39.4 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	11	30464	36.1 (Unreliable)	79.1 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	263	373731	70.4	87.9	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	30	52634	57.0	89.0	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	13	30738	42.3 (Unreliable)	60.7 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	258	376166	68.6	86.3	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	16	53751	29.8 (Unreliable)	43.9 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	12	31135	38.5 (Unreliable)	78.8 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	253	379599	66.6	80.1	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	15	54751	27.4 (Unreliable)	41.9 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	20	31532	63.4	99.7	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	260	382324	68.0	81.8	0.1%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	31	56002	55.4	85.8	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	15	31726	47.3 (Unreliable)	63.4 (Unreliable)	0.0%
+	"Fresno County, CA"	"06019"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	274	384523	71.3	84.5	0.1%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	10	12648	79.1 (Unreliable)	63.4 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	10	12685	78.8 (Unreliable)	66.0 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	12	12807	93.7 (Unreliable)	74.1 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	13	12807	101.5 (Unreliable)	80.1 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	12	12802	93.7 (Unreliable)	69.2 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	17	12698	133.9 (Unreliable)	108.8 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	17	12673	134.1 (Unreliable)	93.9 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	16	12687	126.1 (Unreliable)	96.8 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	15	12667	118.4 (Unreliable)	83.7 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	16	12622	126.8 (Unreliable)	84.9 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	20	12908	154.9	162.0	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	11	12981	84.7 (Unreliable)	90.0 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	15	13002	115.4 (Unreliable)	122.8 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	19	13011	146.0 (Unreliable)	148.7 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	13	13017	99.9 (Unreliable)	104.2 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	12	13040	92.0 (Unreliable)	96.7 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	10	12895	77.5 (Unreliable)	75.9 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	11	12889	85.3 (Unreliable)	73.0 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	11	12887	85.4 (Unreliable)	79.3 (Unreliable)	0.0%
+	"Glenn County, CA"	"06021"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	17	12841	132.4 (Unreliable)	129.8 (Unreliable)	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	64	58862	108.7	81.1	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	73	58559	124.7	95.8	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	69	58525	117.9	85.0	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	66	58703	112.4	82.0	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	73	58874	124.0	91.5	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	67	58845	113.9	83.5	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	77	58589	131.4	97.3	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	58	58543	99.1	71.6	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	71	58409	121.6	89.4	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	49	58678	83.5	57.1	0.0%
+	"Humboldt County, CA"	"06023"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	51	59161	86.2	57.9	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	54	58316	92.6	96.6	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	53	58286	90.9	93.7	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	64	58535	109.3	113.9	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	48	58955	81.4	81.3	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	58	59382	97.7	100.1	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	60	59338	101.1	98.3	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	58	58731	98.8	96.9	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	53	58523	90.6	79.3	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	60	58463	102.6	91.7	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	59	58499	100.9	85.0	0.0%
+	"Humboldt County, CA"	"06023"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	49	58897	83.2	72.9	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	27	71140	38.0	44.3	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	26	72998	35.6	38.7	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	38	74939	50.7	54.6	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	28	76778	36.5	38.6	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	32	78049	41.0	42.8	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	35	78853	44.4	44.9	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	29	79398	36.5	36.3	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	32	79902	40.0	38.0	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	33	80720	40.9	36.1	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	60	81249	73.8	64.9	0.0%
+	"Imperial County, CA"	"06025"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	52	81784	63.6	51.7	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	40	74137	54.0	72.7	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	44	75936	57.9	86.5	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	42	77241	54.4	77.7	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	45	78814	57.1	76.2	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	39	79682	48.9	67.1	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	38	80636	47.1	58.0	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	43	81057	53.0	67.2	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	50	80891	61.8	73.2	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	49	81730	60.0	72.0	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	64	82030	78.0	89.0	0.0%
+	"Imperial County, CA"	"06025"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	50	82572	60.6	68.5	0.0%
+	"Inyo County, CA"	"06027"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	12	7702	155.8 (Unreliable)	84.3 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	15	7601	197.3 (Unreliable)	108.5 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	14	7593	184.4 (Unreliable)	86.6 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	10	7488	133.5 (Unreliable)	59.3 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	15	7405	202.6 (Unreliable)	98.3 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	12	7906	151.8 (Unreliable)	103.3 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	12	7908	151.7 (Unreliable)	101.4 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	10	7928	126.1 (Unreliable)	82.4 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	11	7720	142.5 (Unreliable)	85.6 (Unreliable)	0.0%
+	"Inyo County, CA"	"06027"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	14	7717	181.4 (Unreliable)	107.9 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	288	326194	88.3	103.3	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	287	332842	86.2	100.4	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	295	337972	87.3	102.1	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	334	341505	97.8	111.6	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	309	344297	89.7	104.2	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	24	26996	88.9	128.2	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	280	348456	80.4	91.3	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	12	27347	43.9 (Unreliable)	58.0 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	246	352421	69.8	78.3	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	13	27604	47.1 (Unreliable)	63.7 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	278	356255	78.0	86.2	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	14	27699	50.5 (Unreliable)	69.8 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	288	358752	80.3	88.6	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	16	27851	57.4 (Unreliable)	80.2 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	276	361181	76.4	82.2	0.1%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	11	26376	41.7 (Unreliable)	45.0 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	11	28174	39.0 (Unreliable)	51.8 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	287	363004	79.1	84.6	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	19	29388	64.7 (Unreliable)	159.4 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	271	346831	78.1	131.3	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	16	30296	52.8 (Unreliable)	139.2 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	254	354222	71.7	117.4	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	17	31115	54.6 (Unreliable)	127.7 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	282	359585	78.4	124.5	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	14	31554	44.4 (Unreliable)	123.3 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	293	363440	80.6	124.2	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	12	21685	55.3 (Unreliable)	111.6 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	253	366371	69.1	109.6	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	13	32073	40.5 (Unreliable)	126.6 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	295	370016	79.7	119.8	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	13	31630	41.1 (Unreliable)	112.1 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	271	371372	73.0	110.2	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	13	31729	41.0 (Unreliable)	90.5 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	257	374612	68.6	104.5	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	14	32291	43.4 (Unreliable)	91.9 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	256	377875	67.7	94.1	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	16	32650	49.0 (Unreliable)	107.3 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	255	380615	67.0	95.4	0.1%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	10	25447	39.3 (Unreliable)	51.2 (Unreliable)	0.0%
+	"Kern County, CA"	"06029"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	249	381910	65.2	89.1	0.1%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	37	54266	68.2	83.2	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	31	55221	56.1	66.7	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	44	56049	78.5	93.8	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	37	56392	65.6	77.8	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	30	56561	53.0	61.8	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	33	56639	58.3	68.3	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	34	56492	60.2	68.5	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	41	56655	72.4	79.7	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	40	56707	70.5	79.7	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	32	56954	56.2	60.6	0.0%
+	"Kings County, CA"	"06031"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	40	56782	70.4	72.5	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	28	69783	40.1	82.2	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	39	70885	55.0	94.4	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	37	71163	52.0	108.1	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	35	70601	49.6	94.1	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	33	70677	46.7	85.6	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	31	69902	44.3	74.7	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	37	69413	53.3	84.5	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	35	68820	50.9	80.5	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	30	68038	44.1	66.9	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	32	68256	46.9	76.1	0.0%
+	"Kings County, CA"	"06031"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	43	67798	63.4	97.0	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	56	29394	190.5	126.9	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	43	29190	147.3	95.0	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	45	29177	154.2	103.3	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	45	29164	154.3	103.0	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	31	29237	106.0	73.5	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	42	29005	144.8	93.0	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	48	28880	166.2	107.0	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	42	28839	145.6	85.7	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	39	28954	134.7	81.1	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	43	29130	147.6	89.7	0.0%
+	"Lake County, CA"	"06033"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	47	28887	162.7	98.2	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	36	29300	122.9	96.2	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	42	29277	143.5	114.6	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	43	29368	146.4	113.9	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	51	29333	173.9	135.9	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	50	29390	170.1	135.0	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	53	29060	182.4	136.4	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	51	28884	176.6	130.5	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	59	28663	205.8	142.0	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	43	28766	149.5	104.2	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	59	28863	204.4	133.2	0.0%
+	"Lake County, CA"	"06033"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	38	28700	132.4	86.1	0.0%
+	"Lassen County, CA"	"06035"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	17	11478	148.1 (Unreliable)	132.5 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	13	10776	120.6 (Unreliable)	104.9 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	16	10592	151.1 (Unreliable)	114.0 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	10	10333	96.8 (Unreliable)	59.4 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	18	10404	173.0 (Unreliable)	115.7 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	12	18359	65.4 (Unreliable)	92.9 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	14	18132	77.2 (Unreliable)	106.5 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	10	18095	55.3 (Unreliable)	79.8 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	17	17937	94.8 (Unreliable)	137.2 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	11	17595	62.5 (Unreliable)	84.2 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	12	17205	69.7 (Unreliable)	85.1 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	13	16303	79.7 (Unreliable)	89.5 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	14	16093	87.0 (Unreliable)	104.9 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	12	15790	76.0 (Unreliable)	85.1 (Unreliable)	0.0%
+	"Lassen County, CA"	"06035"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	11	15409	71.4 (Unreliable)	75.3 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	246	745149	33.0	34.0	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	336	523263	64.2	69.9	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	2352	3596452	65.4	63.9	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	10	72909	13.7 (Unreliable)	29.6 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	272	756010	36.0	35.2	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	294	516792	56.9	59.7	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	2228	3570696	62.4	59.4	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	297	769526	38.6	36.2	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	319	513331	62.1	65.2	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	2362	3574763	66.1	62.1	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	283	781741	36.2	32.6	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	338	513103	65.9	65.4	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	2285	3585857	63.7	60.0	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	271	789365	34.3	30.5	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	318	513727	61.9	60.7	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	2173	3592325	60.5	55.6	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	308	801765	38.4	31.7	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	352	513218	68.6	65.8	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	2307	3617988	63.8	58.0	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	10	84296	11.9 (Unreliable)	20.0 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	326	814560	40.0	31.6	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	327	514472	63.6	59.8	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	2124	3636788	58.4	52.1	0.8%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	351	828305	42.4	32.4	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	349	515592	67.7	61.7	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	2299	3653102	62.9	54.9	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	12	84508	14.2 (Unreliable)	22.1 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	313	842046	37.2	27.5	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	296	515386	57.4	51.6	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	2087	3664931	56.9	49.6	0.8%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	14	84982	16.5 (Unreliable)	24.2 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	385	855904	45.0	31.4	0.2%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	336	514737	65.3	56.6	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	2178	3674735	59.3	50.0	0.9%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	15	85390	17.6 (Unreliable)	29.4 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	355	866918	40.9	27.3	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	316	513846	61.5	51.9	0.1%
+	"Los Angeles County, CA"	"06037"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	2309	3677792	62.8	52.6	0.9%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	324	669290	48.4	65.6	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	318	462314	68.8	107.9	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	1998	3599903	55.5	83.2	0.8%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	356	677259	52.6	68.9	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	310	457415	67.8	103.0	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	1937	3574703	54.2	78.6	0.8%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	324	687448	47.1	59.5	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	309	455307	67.9	101.9	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	2030	3579835	56.7	80.0	0.8%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	347	695663	49.9	59.9	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	317	456284	69.5	100.1	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	2087	3591047	58.1	80.2	0.8%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	11	86159	12.8 (Unreliable)	32.3 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	339	701348	48.3	57.6	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	284	457003	62.1	85.1	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	1844	3595144	51.3	70.2	0.7%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	13	86424	15.0 (Unreliable)	42.0 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	384	711327	54.0	61.0	0.2%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	314	457479	68.6	93.4	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	1898	3616457	52.5	70.2	0.7%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	11	86667	12.7 (Unreliable)	31.1 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	398	722125	55.1	59.6	0.2%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	294	460040	63.9	83.9	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	1838	3634607	50.6	65.9	0.7%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	11	86669	12.7 (Unreliable)	34.9 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	393	734295	53.5	55.7	0.2%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	307	462412	66.4	85.4	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	2084	3650654	57.1	72.7	0.8%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	401	747031	53.7	53.8	0.2%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	293	463053	63.3	80.2	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	1991	3662898	54.4	67.8	0.8%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	12	87067	13.8 (Unreliable)	26.5 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	466	759200	61.4	58.5	0.2%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	323	463119	69.7	84.6	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	1953	3672511	53.2	64.7	0.8%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	12	87584	13.7 (Unreliable)	27.9 (Unreliable)	0.0%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	425	768707	55.3	50.6	0.2%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	348	462635	75.2	89.2	0.1%
+	"Los Angeles County, CA"	"06037"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	2025	3675043	55.1	65.8	0.8%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	54	65047	83.0	86.8	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	38	66008	57.6	60.0	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	47	66915	70.2	72.9	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	41	67017	61.2	60.8	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	46	67558	68.1	69.2	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	45	68040	66.1	65.3	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	48	68022	70.6	68.7	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	44	67895	64.8	59.8	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	39	69172	56.4	51.1	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	44	69242	63.5	60.6	0.0%
+	"Madera County, CA"	"06039"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	49	69234	70.8	64.7	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	42	62364	67.3	87.8	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	39	63123	61.8	72.4	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	59	63985	92.2	110.6	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	47	64055	73.4	87.7	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	48	64590	74.3	88.3	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	44	65170	67.5	77.8	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	40	65524	61.0	63.7	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	53	65469	81.0	88.1	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	53	65743	80.6	83.1	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	45	65782	68.4	71.0	0.0%
+	"Madera County, CA"	"06039"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	54	66051	81.8	85.4	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	106	111225	95.3	56.8	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	77	111806	68.9	38.1	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	101	112415	89.8	52.1	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	75	113238	66.2	35.2	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	88	113771	77.3	41.2	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	96	114933	83.5	46.6	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	87	115622	75.2	40.8	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	98	116816	83.9	42.7	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	73	117563	62.1	29.6	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	80	117582	68.0	33.8	0.0%
+	"Marin County, CA"	"06041"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	90	117019	76.9	38.2	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	81	107017	75.7	69.6	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	84	107461	78.2	69.0	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	81	108106	74.9	63.1	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	70	108941	64.3	55.7	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	79	109287	72.3	60.6	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	75	110352	68.0	54.2	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	68	110231	61.7	47.7	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	67	110948	60.4	47.5	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	87	111813	77.8	55.9	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	78	111943	69.7	49.6	0.0%
+	"Marin County, CA"	"06041"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	67	111624	60.0	42.8	0.0%
+	"Mariposa County, CA"	"06043"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	15	8442	177.7 (Unreliable)	108.1 (Unreliable)	0.0%
+	"Mariposa County, CA"	"06043"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	14	8501	164.7 (Unreliable)	99.4 (Unreliable)	0.0%
+	"Mariposa County, CA"	"06043"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	12	8014	149.7 (Unreliable)	79.3 (Unreliable)	0.0%
+	"Mariposa County, CA"	"06043"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	11	8594	128.0 (Unreliable)	96.6 (Unreliable)	0.0%
+	"Mariposa County, CA"	"06043"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	10	8554	116.9 (Unreliable)	70.7 (Unreliable)	0.0%
+	"Mariposa County, CA"	"06043"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	15	8380	179.0 (Unreliable)	108.0 (Unreliable)	0.0%
+	"Mariposa County, CA"	"06043"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	10	8237	121.4 (Unreliable)	68.9 (Unreliable)	0.0%
+	"Mariposa County, CA"	"06043"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	10	8123	123.1 (Unreliable)	71.3 (Unreliable)	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	35	39439	88.7	59.6	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	46	39171	117.4	79.0	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	37	39252	94.3	63.2	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	46	39182	117.4	70.7	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	45	39089	115.1	77.1	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	45	38912	115.6	71.7	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	47	38861	120.9	82.5	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	46	38779	118.6	67.5	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	38	38835	97.8	59.1	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	38	38795	98.0	54.2	0.0%
+	"Mendocino County, CA"	"06045"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	36	38891	92.6	49.6	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	27	39513	68.3	62.6	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	33	39250	84.1	81.0	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	37	39316	94.1	85.9	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	29	39344	73.7	65.8	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	38	39304	96.7	88.1	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	37	38942	95.0	84.2	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	43	38835	110.7	89.6	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	50	38604	129.5	109.7	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	38	38616	98.4	75.7	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	35	38570	90.7	70.6	0.0%
+	"Mendocino County, CA"	"06045"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	58	38557	150.4	120.5	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	69	103494	66.7	77.9	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	63	104406	60.3	68.4	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	57	104919	54.3	59.5	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	78	105197	74.1	81.9	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	74	106405	69.5	74.6	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	54	107901	50.0	53.0	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	72	108564	66.3	71.2	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	72	109169	66.0	68.4	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	56	110083	50.9	52.6	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	72	110867	64.9	66.5	0.0%
+	"Merced County, CA"	"06047"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	67	111803	59.9	61.2	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	58	104755	55.4	91.7	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	62	105786	58.6	97.1	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	63	106343	59.2	89.8	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	65	106505	61.0	97.2	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	54	107500	50.2	77.6	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	67	109159	61.4	88.4	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	66	110056	60.0	89.3	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	69	110838	62.3	88.8	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	77	111814	68.9	93.8	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	72	112487	64.0	89.0	0.0%
+	"Merced County, CA"	"06047"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	84	113153	74.2	97.6	0.0%
+	"Modoc County, CA"	"06049"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	11	4387	250.7 (Unreliable)	182.7 (Unreliable)	0.0%
+	"Modoc County, CA"	"06049"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	11	4032	272.8 (Unreliable)	133.5 (Unreliable)	0.0%
+	"Modoc County, CA"	"06049"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	11	3924	280.3 (Unreliable)	171.0 (Unreliable)	0.0%
+	"Modoc County, CA"	"06049"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	13	4268	304.6 (Unreliable)	194.4 (Unreliable)	0.0%
+	"Modoc County, CA"	"06049"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	10	4136	241.8 (Unreliable)	162.3 (Unreliable)	0.0%
+	"Modoc County, CA"	"06049"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	11	4001	274.9 (Unreliable)	129.8 (Unreliable)	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	107	165842	64.5	59.4	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	110	165787	66.4	59.5	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	106	167378	63.3	56.7	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	102	168721	60.5	53.2	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	100	170301	58.7	50.5	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	11	18354	59.9 (Unreliable)	43.6 (Unreliable)	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	98	173081	56.6	51.9	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	11	18504	59.4 (Unreliable)	43.8 (Unreliable)	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	100	175233	57.1	50.6	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	122	176764	69.0	61.6	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	16	18641	85.8 (Unreliable)	54.5 (Unreliable)	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	111	178375	62.2	54.4	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	11	18812	58.5 (Unreliable)	39.7 (Unreliable)	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	108	179622	60.1	49.5	0.0%
+	"Monterey County, CA"	"06053"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	120	180653	66.4	54.9	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	97	176480	55.0	77.8	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	97	176063	55.1	76.3	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	80	176977	45.2	62.5	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	85	178339	47.7	64.6	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	98	179919	54.5	73.9	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	73	182670	40.0	51.8	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	12	16367	73.3 (Unreliable)	78.9 (Unreliable)	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	85	184680	46.0	59.3	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	83	185355	44.8	56.7	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	80	185606	43.1	51.5	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	113	186189	60.7	72.2	0.0%
+	"Monterey County, CA"	"06053"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	126	187338	67.3	75.8	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	59	58652	100.6	62.8	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	64	58882	108.7	68.8	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	66	59220	111.4	66.2	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	68	59489	114.3	70.7	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	55	59872	91.9	53.6	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	69	60276	114.5	69.9	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	50	60539	82.6	46.3	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	59	60966	96.8	60.2	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	51	61245	83.3	47.5	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	53	61416	86.3	51.4	0.0%
+	"Napa County, CA"	"06055"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	53	61457	86.2	52.7	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	97	58493	165.8	142.8	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	58	58730	98.8	85.2	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	65	59385	109.5	91.1	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	72	59609	120.8	102.1	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	48	59941	80.1	68.8	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	57	60175	94.7	79.3	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	59	60382	97.7	79.8	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	60	60584	99.0	82.4	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	55	60799	90.5	75.0	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	57	60914	93.6	75.7	0.0%
+	"Napa County, CA"	"06055"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	55	60590	90.8	68.8	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	59	47625	123.9	71.6	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	56	47628	117.6	68.1	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	49	47814	102.5	60.3	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	44	47878	91.9	52.8	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	49	47931	102.2	56.2	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	45	47867	94.0	51.4	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	56	47668	117.5	60.9	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	60	47528	126.2	62.6	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	44	47938	91.8	53.2	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	59	47915	123.1	60.3	0.0%
+	"Nevada County, CA"	"06057"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	46	48074	95.7	47.0	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	45	46536	96.7	75.3	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	42	46677	90.0	68.9	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	55	46780	117.6	87.4	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	42	46915	89.5	65.6	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	53	46955	112.9	83.1	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	58	46792	124.0	88.2	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	47	46566	100.9	70.2	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	54	46436	116.3	79.7	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	40	46578	85.9	54.9	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	71	46579	152.4	96.2	0.0%
+	"Nevada County, CA"	"06057"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	52	46605	111.6	69.7	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	53	271729	19.5	28.7	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	847	1160873	73.0	62.3	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	58	279464	20.8	28.3	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	817	1152516	70.9	59.4	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	70	288684	24.2	33.2	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	12	31670	37.9 (Unreliable)	79.3 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	880	1155503	76.2	63.2	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	50	297750	16.8	21.4	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	10	32283	31.0 (Unreliable)	64.9 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	755	1160283	65.1	53.1	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	59	305152	19.3	24.3	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	842	1163832	72.3	58.5	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	74	315710	23.4	27.7	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	854	1175022	72.7	57.5	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	74	323761	22.9	25.5	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	779	1182425	65.9	51.6	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	94	332714	28.3	30.2	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	887	1186887	74.7	57.2	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	79	341756	23.1	23.8	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	757	1188689	63.7	48.2	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	96	351539	27.3	26.9	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	837	1189833	70.3	51.2	0.3%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	109	360835	30.2	27.7	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	10	37656	26.6 (Unreliable)	37.7 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	818	1188607	68.8	50.9	0.3%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	66	251976	26.2	49.4	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	13	32833	39.6 (Unreliable)	85.6 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	627	1150444	54.5	73.2	0.2%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	69	258094	26.7	49.3	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	636	1142782	55.7	72.3	0.2%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	99	265253	37.3	63.8	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	658	1146669	57.4	72.3	0.3%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	87	272738	31.9	52.7	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	659	1151457	57.2	69.8	0.3%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	94	279153	33.7	54.0	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	605	1154476	52.4	64.2	0.2%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	104	288525	36.0	53.9	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	10	36279	27.6 (Unreliable)	70.6 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	649	1165076	55.7	65.7	0.3%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	113	295438	38.2	51.7	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	675	1171727	57.6	65.9	0.3%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	108	303511	35.6	47.2	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	13	37995	34.2 (Unreliable)	52.6 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	736	1176414	62.6	70.2	0.3%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	110	311523	35.3	43.0	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	597	1177870	50.7	55.5	0.2%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	125	319851	39.1	46.0	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	12	39437	30.4 (Unreliable)	63.2 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	688	1179233	58.3	61.5	0.3%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	122	327684	37.2	41.3	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	18	40247	44.7 (Unreliable)	85.4 (Unreliable)	0.0%
+	"Orange County, CA"	"06059"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	692	1177385	58.8	60.4	0.3%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	156	149434	104.4	79.3	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	130	152029	85.5	61.8	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	135	155535	86.8	61.6	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	129	157694	81.8	56.3	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	157	159309	98.6	65.3	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	167	162210	103.0	66.2	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	150	163501	91.7	59.0	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	149	165606	90.0	55.7	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	149	167001	89.2	52.6	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	159	168453	94.4	55.1	0.1%
+	"Placer County, CA"	"06061"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	172	170453	100.9	58.5	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	129	143408	90.0	91.6	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	121	145816	83.0	82.6	0.0%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	129	148698	86.8	83.7	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	115	151036	76.1	71.4	0.0%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	141	152638	92.4	84.1	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	150	155533	96.4	86.0	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	121	157144	77.0	66.1	0.0%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	149	158797	93.8	77.6	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	134	160082	83.7	66.6	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	150	160977	93.2	70.9	0.1%
+	"Placer County, CA"	"06061"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	133	162599	81.8	61.3	0.1%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	11	9787	112.4 (Unreliable)	76.9 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	14	9741	143.7 (Unreliable)	92.4 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	19	9656	196.8 (Unreliable)	123.9 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	13	9492	137.0 (Unreliable)	77.0 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	13	9415	138.1 (Unreliable)	81.6 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	17	9184	185.1 (Unreliable)	105.3 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	13	8789	147.9 (Unreliable)	72.9 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	19	8626	220.3 (Unreliable)	116.4 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	19	8550	222.2 (Unreliable)	116.4 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	12	8654	138.7 (Unreliable)	65.3 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	12	9827	122.1 (Unreliable)	96.9 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	10	9773	102.3 (Unreliable)	73.4 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	13	9578	135.7 (Unreliable)	113.6 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	18	9477	189.9 (Unreliable)	144.7 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	11	9225	119.2 (Unreliable)	67.6 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	20	9041	221.2	157.1	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	12	8785	136.6 (Unreliable)	88.9 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	10	8655	115.5 (Unreliable)	76.8 (Unreliable)	0.0%
+	"Plumas County, CA"	"06063"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	12	8542	140.5 (Unreliable)	90.6 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	24	72553	33.1	54.0	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	617	847672	72.8	65.8	0.2%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	12	74139	16.2 (Unreliable)	26.3 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	15	76160	19.7 (Unreliable)	35.4 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	620	869330	71.3	64.5	0.2%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	21	78950	26.6	44.6	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	657	880988	74.6	66.6	0.3%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	18	80764	22.3 (Unreliable)	37.8 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	25	81535	30.7	44.0	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	643	893141	72.0	63.9	0.3%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	16	84429	19.0 (Unreliable)	30.9 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	34	83911	40.5	62.8	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	616	907888	67.8	59.3	0.2%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	16	87783	18.2 (Unreliable)	27.4 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	38	85745	44.3	64.1	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	665	925438	71.9	62.6	0.3%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	22	89777	24.5	32.7	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	31	87171	35.6	49.6	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	675	935596	72.1	61.1	0.3%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	23	91909	25.0	30.0	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	24	88564	27.1	38.2	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	712	944981	75.3	63.2	0.3%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	18	94632	19.0 (Unreliable)	22.0 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	38	90221	42.1	49.8	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	663	956743	69.3	57.4	0.3%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	20	97291	20.6	23.3	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	35	92290	37.9	46.1	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	745	966986	77.0	62.1	0.3%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	23	100256	22.9	23.6	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	39	94569	41.2	45.2	0.0%
+	"Riverside County, CA"	"06065"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	708	978127	72.4	57.3	0.3%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	12	62022	19.3 (Unreliable)	42.4 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	25	73437	34.0	85.9	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	615	850224	72.3	86.0	0.2%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	18	66792	26.9 (Unreliable)	58.2 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	28	76968	36.4	75.3	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	661	871536	75.8	90.1	0.3%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	22	69779	31.5	68.3	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	32	79410	40.3	76.7	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	606	880766	68.8	80.0	0.2%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	12	72933	16.5 (Unreliable)	29.8 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	28	81676	34.3	66.5	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	593	891361	66.5	75.0	0.2%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	22	76476	28.8	58.2	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	21	84014	25.0	53.4	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	572	905329	63.2	71.5	0.2%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	19	79150	24.0 (Unreliable)	43.5 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	37	85893	43.1	78.6	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	664	923225	71.9	80.2	0.3%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	25	80613	31.0	55.5	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	30	87578	34.3	69.2	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	582	934109	62.3	67.8	0.2%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	19	82198	23.1 (Unreliable)	32.8 (Unreliable)	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	41	88793	46.2	87.8	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	658	944178	69.7	74.0	0.3%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	24	84276	28.5	41.3	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	34	90341	37.6	61.8	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	600	954537	62.9	64.7	0.2%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	24	86371	27.8	38.6	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	34	92144	36.9	47.2	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	695	965137	72.0	72.6	0.3%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	21	88899	23.6	34.3	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	31	94469	32.8	43.5	0.0%
+	"Riverside County, CA"	"06065"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	670	977623	68.5	67.3	0.3%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	29	112879	25.7	32.9	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	29	83794	34.6	58.9	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	505	489538	103.2	85.5	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	30	116490	25.8	31.9	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	33	85387	38.6	62.2	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	444	489489	90.7	75.4	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	33	120270	27.4	32.9	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	44	87223	50.4	77.3	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	464	490272	94.6	76.9	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	39	123807	31.5	35.4	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	33	88899	37.1	56.0	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	441	492108	89.6	71.3	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	44	126633	34.7	39.4	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	36	90263	39.9	53.5	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	489	492672	99.3	79.6	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	40	130512	30.6	34.0	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	40	91700	43.6	63.7	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	503	495768	101.5	79.3	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	46	133193	34.5	35.5	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	34	92330	36.8	51.2	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	432	498866	86.6	65.7	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	47	136276	34.5	34.0	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	38	93237	40.8	54.5	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	462	502149	92.0	70.9	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	36	139913	25.7	24.5	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	45	94517	47.6	63.8	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	461	506359	91.0	68.2	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	38	143875	26.4	24.7	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	43	95982	44.8	55.5	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	506	510268	99.2	73.9	0.2%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	48	148126	32.4	29.1	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	31	97693	31.7	35.1	0.0%
+	"Sacramento County, CA"	"06067"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	460	513292	89.6	66.6	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	35	105618	33.1	55.6	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	33	80061	41.2	91.9	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	470	473849	99.2	120.4	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	46	108847	42.3	71.3	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	23	81892	28.1	63.3	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	365	474237	77.0	92.1	0.1%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	49	111785	43.8	73.3	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	35	83736	41.8	100.3	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	389	475189	81.9	95.5	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	44	115199	38.2	58.9	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	37	85302	43.4	83.6	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	355	475970	74.6	85.5	0.1%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	10	14039	71.2 (Unreliable)	168.4 (Unreliable)	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	69	117670	58.6	94.6	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	34	86672	39.2	77.5	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	442	476412	92.8	104.3	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	50	121133	41.3	63.4	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	31	88074	35.2	64.0	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	418	479228	87.2	94.9	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	57	123577	46.1	67.6	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	36	88684	40.6	81.0	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	390	481598	81.0	86.9	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	63	126045	50.0	71.3	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	33	89153	37.0	64.5	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	421	483857	87.0	91.5	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	57	129134	44.1	60.5	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	38	90748	41.9	66.9	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	405	487955	83.0	84.5	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	48	132739	36.2	47.9	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	34	92070	36.9	54.6	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	428	491778	87.0	87.9	0.2%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	50	136930	36.5	45.5	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	36	93405	38.5	59.6	0.0%
+	"Sacramento County, CA"	"06067"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	410	494769	82.9	82.0	0.2%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	21	24681	85.1	98.1	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	13	24791	52.4 (Unreliable)	62.2 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	14	24774	56.5 (Unreliable)	59.9 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	15	25074	59.8 (Unreliable)	68.8 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	10	25416	39.3 (Unreliable)	38.3 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	11	25688	42.8 (Unreliable)	41.0 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	17	25985	65.4 (Unreliable)	64.7 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	15	26158	57.3 (Unreliable)	54.2 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	23	26327	87.4	76.2	0.0%
+	"San Benito County, CA"	"06069"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	22	26623	82.6	79.7	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	16	25075	63.8 (Unreliable)	93.6 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	13	24871	52.3 (Unreliable)	73.3 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	16	24833	64.4 (Unreliable)	86.3 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	14	25137	55.7 (Unreliable)	73.0 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	16	25792	62.0 (Unreliable)	84.3 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	20	26052	76.8	99.1	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	14	26393	53.0 (Unreliable)	63.3 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	15	26511	56.6 (Unreliable)	69.2 (Unreliable)	0.0%
+	"San Benito County, CA"	"06069"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	10	26945	37.1 (Unreliable)	42.7 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	18	71944	25.0 (Unreliable)	45.8 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	34	104057	32.7	58.5	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	622	793322	78.4	95.1	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	10	74511	13.4 (Unreliable)	24.3 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	34	104968	32.4	62.2	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	563	798303	70.5	85.4	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	17	76820	22.1 (Unreliable)	34.1 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	46	106291	43.3	77.8	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	583	800558	72.8	85.2	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	19	79098	24.0 (Unreliable)	39.6 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	34	107649	31.6	54.0	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	527	801528	65.7	75.4	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	13	81844	15.9 (Unreliable)	22.7 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	35	109387	32.0	47.3	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	539	807942	66.7	76.3	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	11	84410	13.0 (Unreliable)	18.1 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	41	110675	37.0	58.6	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	547	817327	66.9	75.2	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	24	85611	28.0	35.6	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	41	110925	37.0	54.2	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	560	821836	68.1	74.8	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	33	87404	37.8	44.3	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	49	111118	44.1	60.1	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	625	825756	75.7	81.1	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	10	25483	39.2 (Unreliable)	58.1 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	21	89702	23.4	27.4	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	43	111982	38.4	50.6	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	579	830800	69.7	72.9	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	27	92208	29.3	31.2	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	53	112689	47.0	63.5	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	583	835892	69.7	71.4	0.2%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	21	94714	22.2	23.2	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	55	113389	48.5	58.1	0.0%
+	"San Bernardino County, CA"	"06071"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	597	841633	70.9	71.9	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	16	66574	24.0 (Unreliable)	61.5 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	33	99402	33.2	92.8	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	561	798894	70.2	121.2	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	16	68850	23.2 (Unreliable)	56.9 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	36	100185	35.9	70.2	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	477	803391	59.4	100.0	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	18	70805	25.4 (Unreliable)	63.2 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	35	100874	34.7	96.7	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	511	804129	63.5	105.5	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	11	72753	15.1 (Unreliable)	25.1 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	32	102155	31.3	59.4	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	484	803754	60.2	96.2	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	17	75200	22.6 (Unreliable)	50.7 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	33	103353	31.9	78.4	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	491	808392	60.7	95.4	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	13	77299	16.8 (Unreliable)	31.8 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	48	104667	45.9	83.4	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	501	818417	61.2	94.2	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	18	78396	23.0 (Unreliable)	42.7 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	58	105436	55.0	97.5	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	538	824784	65.2	96.2	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	29	79874	36.3	62.3	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	38	105438	36.0	59.4	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	563	827572	68.0	98.1	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	20	81982	24.4	34.7	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	43	106523	40.4	71.5	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	543	833682	65.1	90.6	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	10	26106	38.3 (Unreliable)	90.6 (Unreliable)	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	28	83981	33.3	46.8	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	53	107183	49.4	69.8	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	542	838734	64.6	87.9	0.2%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	23	85875	26.8	35.5	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	59	107916	54.7	82.3	0.0%
+	"San Bernardino County, CA"	"06071"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	601	843882	71.2	96.1	0.2%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	39	185921	21.0	29.1	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	28	87594	32.0	45.6	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	829	1174569	70.6	58.8	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	31	191896	16.2	21.8	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	28	88102	31.8	51.0	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	815	1182561	68.9	56.4	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	32	198600	16.1	21.5	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	22	89284	24.6	37.7	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	818	1195242	68.4	55.8	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	29	204944	14.2	17.8	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	23	90749	25.3	36.8	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	771	1205814	63.9	51.8	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	35	209811	16.7	20.8	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	23	92171	25.0	40.0	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	804	1215400	66.2	53.1	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	56	216057	25.9	30.4	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	37	93681	39.5	53.7	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	852	1231215	69.2	53.9	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	36	220945	16.3	18.0	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	21	94795	22.2	32.2	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	840	1242783	67.6	53.1	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	55	226531	24.3	25.4	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	26	95633	27.2	40.2	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	831	1255442	66.2	52.2	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	58	232161	25.0	24.9	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	34	96696	35.2	49.1	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	760	1266851	60.0	45.4	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	61	237695	25.7	24.3	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	28	97594	28.7	33.1	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	809	1274459	63.5	48.2	0.3%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	55	243310	22.6	20.9	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	38	98562	38.6	49.2	0.0%
+	"San Diego County, CA"	"06073"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	805	1282026	62.8	46.8	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	59	166893	35.4	68.2	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	20	96095	20.8	55.7	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	756	1195313	63.2	76.2	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	33	171874	19.2	36.8	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	23	96769	23.8	51.8	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	640	1201753	53.3	63.4	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	50	177903	28.1	46.7	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	23	99117	23.2	58.0	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	734	1217035	60.3	69.4	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	40	183478	21.8	38.5	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	28	100709	27.8	53.5	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	700	1227953	57.0	64.6	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	47	188060	25.0	43.6	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	23	102424	22.5	55.0	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	710	1237941	57.4	65.5	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	61	193472	31.5	54.0	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	29	103822	27.9	57.7	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	700	1252906	55.9	63.5	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	49	198121	24.7	38.2	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	36	106035	34.0	74.2	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	709	1268712	55.9	62.3	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	54	203065	26.6	39.8	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	35	107334	32.6	56.2	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	784	1279792	61.3	67.7	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	59	208477	28.3	40.7	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	29	109202	26.6	44.3	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	694	1294114	53.6	57.8	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	51	213279	23.9	31.9	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	33	110939	29.7	55.6	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	765	1304339	58.7	61.7	0.3%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	76	217788	34.9	46.3	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	28	112213	25.0	40.4	0.0%
+	"San Diego County, CA"	"06073"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	782	1311508	59.6	62.2	0.3%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	63	143899	43.8	30.0	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	21	28589	73.5	53.2	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	171	204034	83.8	56.7	0.1%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	64	146615	43.7	28.5	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	31	28103	110.3	81.5	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	142	206684	68.7	48.7	0.1%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	59	149561	39.4	26.2	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	29	27718	104.6	81.5	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	153	210086	72.8	53.2	0.1%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	71	151679	46.8	30.0	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	26	27714	93.8	68.1	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	130	212388	61.2	43.0	0.1%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	54	152499	35.4	21.5	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	15	27506	54.5 (Unreliable)	39.3 (Unreliable)	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	112	212970	52.6	39.0	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	70	155652	45.0	25.5	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	15	26961	55.6 (Unreliable)	37.9 (Unreliable)	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	97	215148	45.1	33.2	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	50	158778	31.5	18.4	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	18	26611	67.6 (Unreliable)	51.5 (Unreliable)	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	106	218186	48.6	35.3	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	67	161759	41.4	22.7	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	17	26504	64.1 (Unreliable)	43.8 (Unreliable)	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	117	219883	53.2	39.0	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	57	165350	34.5	19.0	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	14	26251	53.3 (Unreliable)	42.1 (Unreliable)	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	96	221530	43.3	32.6	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	74	169165	43.7	24.9	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	29	26129	111.0	81.8	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	93	223354	41.6	31.3	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	68	172997	39.3	22.0	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	19	26074	72.9 (Unreliable)	53.9 (Unreliable)	0.0%
+	"San Francisco County, CA"	"06075"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	113	224472	50.3	37.4	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	96	127008	75.6	66.9	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	26	28980	89.7	88.3	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	171	229277	74.6	87.4	0.1%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	78	128956	60.5	54.5	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	27	28693	94.1	96.7	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	163	232377	70.1	82.0	0.1%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	89	131027	67.9	58.4	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	26	28809	90.2	95.6	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	156	236278	66.0	78.8	0.1%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	85	132548	64.1	54.2	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	26	28998	89.7	102.2	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	121	240387	50.3	59.4	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	100	132775	75.3	62.1	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	16	28986	55.2 (Unreliable)	55.3 (Unreliable)	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	130	241853	53.8	63.8	0.1%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	107	135567	78.9	62.6	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	21	28555	73.5	76.2	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	134	245161	54.7	65.2	0.1%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	124	138495	89.5	71.4	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	23	28386	81.0	77.7	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	106	249721	42.4	50.2	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	105	141430	74.2	56.9	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	24	28396	84.5	87.5	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	107	252697	42.3	50.8	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	98	144579	67.8	52.8	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	20	28230	70.8	67.5	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	101	255971	39.5	44.7	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	96	147831	64.9	47.2	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	30	28190	106.4	101.8	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	119	258833	46.0	53.3	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	102	151013	67.5	48.2	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	26	28213	92.2	86.5	0.0%
+	"San Francisco County, CA"	"06075"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	112	259710	43.1	50.9	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	18	55748	32.3 (Unreliable)	44.9 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	11	29351	37.5 (Unreliable)	67.0 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	197	240357	82.0	76.6	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	22	57244	38.4	54.3	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	15	30237	49.6 (Unreliable)	77.3 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	205	240469	85.3	78.8	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	13	58295	22.3 (Unreliable)	30.7 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2008"	"2008"	"Black or African American"	"2054-5"	14	30832	45.4 (Unreliable)	74.3 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	201	240395	83.6	76.3	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	21	59477	35.3	47.4	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	16	31337	51.1 (Unreliable)	70.8 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	190	241609	78.6	70.4	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	15	60757	24.7 (Unreliable)	29.9 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	19	32022	59.3 (Unreliable)	79.5 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	198	243259	81.4	71.8	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	17	61993	27.4 (Unreliable)	34.4 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	12	32353	37.1 (Unreliable)	53.0 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	221	246466	89.7	79.1	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	15	62865	23.9 (Unreliable)	28.0 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	17	32530	52.3 (Unreliable)	66.9 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	215	248326	86.6	76.1	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	22	63612	34.6	38.6	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	226	249492	90.6	78.2	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	27	64951	41.6	44.6	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	22	32900	66.9	87.5	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	232	251870	92.1	80.6	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	13	66629	19.5 (Unreliable)	21.5 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	16	33545	47.7 (Unreliable)	64.1 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	224	254125	88.1	75.7	0.1%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	27	68651	39.3	38.9	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	24	34181	70.2	80.5	0.0%
+	"San Joaquin County, CA"	"06077"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	236	256065	92.2	77.8	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	31	52992	58.5	107.5	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	171	242525	70.5	96.9	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	24	54485	44.0	82.1	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	11	29660	37.1 (Unreliable)	71.4 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	162	242147	66.9	89.3	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	25	55506	45.0	83.2	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	11	30311	36.3 (Unreliable)	80.1 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	191	241729	79.0	104.5	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	23	56625	40.6	72.2	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	13	30694	42.4 (Unreliable)	88.8 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	188	242444	77.5	98.8	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	28	57895	48.4	82.7	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	12	31324	38.3 (Unreliable)	79.9 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	179	243700	73.5	93.9	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	21	58955	35.6	57.0	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	20	31676	63.1	136.9	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	189	246751	76.6	94.3	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	21	59602	35.2	52.0	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	15	31700	47.3 (Unreliable)	100.4 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	211	248620	84.9	102.2	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	28	60206	46.5	68.8	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	16	31406	50.9 (Unreliable)	95.8 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	194	249209	77.8	91.6	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	27	61460	43.9	63.0	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	14	32432	43.2 (Unreliable)	64.4 (Unreliable)	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	223	252331	88.4	102.9	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	33	63027	52.4	69.9	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	20	33198	60.2	110.3	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	224	255430	87.7	100.7	0.1%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	30	65121	46.1	64.6	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	20	34018	58.8	78.9	0.0%
+	"San Joaquin County, CA"	"06077"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	238	257874	92.3	102.8	0.1%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	111	118355	93.8	63.5	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	95	119346	79.6	54.1	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	127	120733	105.2	69.8	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	115	121500	94.7	60.8	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	103	122133	84.3	54.0	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	124	122420	101.3	65.6	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	100	123810	80.8	47.6	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	110	124898	88.1	53.4	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	103	126253	81.6	48.6	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	110	127403	86.3	50.5	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	127	128126	99.1	55.0	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	99	121759	81.3	79.3	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	71	122602	57.9	54.6	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	97	123997	78.2	71.4	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	103	124469	82.8	74.7	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	86	124851	68.9	61.5	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	96	125054	76.8	67.7	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	97	126437	76.7	66.1	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	96	126986	75.6	64.8	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	109	127833	85.3	67.5	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	101	128550	78.6	61.9	0.0%
+	"San Luis Obispo County, CA"	"06079"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	92	129267	71.2	56.7	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	19	97943	19.4 (Unreliable)	24.6 (Unreliable)	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	235	237172	99.1	62.2	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	31	100479	30.9	36.3	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	222	236656	93.8	56.8	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	19	103262	18.4 (Unreliable)	21.4 (Unreliable)	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	229	238425	96.0	58.3	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	24	106584	22.5	26.3	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	210	239867	87.5	55.7	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	32	108701	29.4	33.3	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	12	12967	92.5 (Unreliable)	78.0 (Unreliable)	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	218	240012	90.8	53.3	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	30	112534	26.7	29.0	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	190	241695	78.6	48.2	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	30	116389	25.8	26.0	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	14	13052	107.3 (Unreliable)	88.6 (Unreliable)	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	189	243325	77.7	47.3	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	39	119980	32.5	31.4	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	211	243973	86.5	51.2	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	38	123446	30.8	28.6	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	208	244515	85.1	51.8	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	28	127357	22.0	20.0	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	175	243743	71.8	42.9	0.1%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	29	130328	22.3	18.6	0.0%
+	"San Mateo County, CA"	"06081"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	187	241222	77.5	47.0	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	33	87768	37.6	57.3	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	175	235278	74.4	73.4	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	36	89552	40.2	64.9	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	195	235057	83.0	80.4	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	29	92309	31.4	52.4	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	185	237159	78.0	75.5	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	46	95109	48.4	75.2	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	164	238867	68.7	65.7	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	32	96881	33.0	48.4	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	172	239007	72.0	68.4	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	38	100361	37.9	52.9	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	193	240486	80.3	74.6	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	34	103709	32.8	44.6	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	170	242644	70.1	65.4	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	48	107017	44.9	58.1	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	182	244149	74.5	67.8	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	44	110019	40.0	49.7	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	10	13378	74.7 (Unreliable)	70.8 (Unreliable)	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	152	245112	62.0	57.9	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	55	113447	48.5	58.0	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	162	245052	66.1	59.3	0.1%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	37	116190	31.8	36.5	0.0%
+	"San Mateo County, CA"	"06081"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	162	243584	66.5	60.0	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	125	181527	68.9	49.9	0.0%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	123	182568	67.4	48.0	0.0%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	142	184079	77.1	52.0	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	149	185604	80.3	57.3	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	129	186698	69.1	44.8	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	132	187919	70.2	46.3	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	127	189546	67.0	46.6	0.0%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	163	191526	85.1	54.5	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	133	193484	68.7	47.6	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	132	194635	67.8	45.4	0.1%
+	"Santa Barbara County, CA"	"06083"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	159	195489	81.3	53.2	0.1%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	115	182809	62.9	68.4	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	122	183566	66.5	70.1	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	114	185278	61.5	65.6	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	123	186707	65.9	67.9	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	109	187873	58.0	58.9	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	124	188219	65.9	65.0	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	111	190260	58.3	57.8	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	128	192335	66.6	63.5	0.1%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	117	194102	60.3	57.1	0.0%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	149	194936	76.4	73.0	0.1%
+	"Santa Barbara County, CA"	"06083"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	119	195459	60.9	56.2	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	47	277311	16.9	25.6	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	13	26566	48.9 (Unreliable)	86.2 (Unreliable)	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	391	525001	74.5	60.0	0.2%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	53	286621	18.5	26.9	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	364	525336	69.3	55.3	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	54	297177	18.2	25.1	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	384	528301	72.7	56.1	0.2%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	60	306074	19.6	25.7	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	338	530658	63.7	49.6	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	46	312423	14.7	19.3	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	335	532299	62.9	49.2	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	49	323300	15.2	18.7	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	347	536476	64.7	48.6	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	51	332496	15.3	18.5	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	11	29347	37.5 (Unreliable)	58.1 (Unreliable)	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	353	538941	65.5	49.1	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	62	342237	18.1	20.7	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	334	542008	61.6	46.2	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	63	351740	17.9	19.6	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	331	542357	61.0	45.4	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	84	361935	23.2	24.3	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	316	541098	58.4	43.2	0.1%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	58	370761	15.6	15.6	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	10	30183	33.1 (Unreliable)	39.0 (Unreliable)	0.0%
+	"Santa Clara County, CA"	"06085"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	292	535895	54.5	39.0	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	84	269919	31.1	58.1	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	310	541122	57.3	72.8	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	74	277702	26.6	49.2	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	295	542035	54.4	67.2	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	81	286654	28.3	50.9	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	305	545636	55.9	67.1	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	76	293725	25.9	45.1	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	303	548396	55.3	64.9	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	52	298889	17.4	30.3	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	320	549707	58.2	65.7	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	68	310072	21.9	36.0	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	313	554165	56.5	63.4	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	78	320365	24.3	38.2	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	11	31439	35.0 (Unreliable)	61.9 (Unreliable)	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	319	557493	57.2	62.9	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	96	331477	29.0	44.7	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	307	560636	54.8	59.3	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	80	342044	23.4	32.7	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	15	32599	46.0 (Unreliable)	61.8 (Unreliable)	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	273	562449	48.5	51.5	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	94	353103	26.6	36.5	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	10	32885	30.4 (Unreliable)	46.6 (Unreliable)	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	257	562556	45.7	48.0	0.1%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	96	362778	26.5	34.9	0.0%
+	"Santa Clara County, CA"	"06085"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	264	558064	47.3	49.2	0.1%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	87	115162	75.5	65.4	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	64	115547	55.4	46.9	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	59	116696	50.6	44.4	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	100	117947	84.8	70.2	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	67	118660	56.5	45.8	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	79	119738	66.0	51.9	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	81	120487	67.2	54.1	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	80	121608	65.8	51.8	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	65	122603	53.0	42.0	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	80	123617	64.7	46.2	0.0%
+	"Santa Cruz County, CA"	"06087"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	76	124077	61.3	45.1	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	64	114741	55.8	78.2	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	59	115129	51.2	68.7	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	56	116428	48.1	64.7	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	79	117633	67.2	83.9	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	55	118474	46.4	54.9	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	68	119023	57.1	71.5	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	58	119460	48.6	52.9	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	63	120373	52.3	60.9	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	58	121087	47.9	50.3	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	74	121856	60.7	67.8	0.0%
+	"Santa Cruz County, CA"	"06087"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	63	122021	51.6	57.3	0.0%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	136	82941	164.0	111.2	0.1%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	123	82783	148.6	98.0	0.0%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	156	83072	187.8	122.1	0.1%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	106	82921	127.8	81.9	0.0%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	131	82762	158.3	100.6	0.1%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	136	82976	163.9	104.7	0.1%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	103	83092	124.0	75.9	0.0%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	160	83293	192.1	114.9	0.1%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	124	83449	148.6	88.9	0.0%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	142	83173	170.7	106.7	0.1%
+	"Shasta County, CA"	"06089"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	136	83268	163.3	93.9	0.1%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	90	79699	112.9	99.8	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	114	79934	142.6	124.8	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	110	79973	137.5	121.1	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	102	79855	127.7	108.0	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	128	79733	160.5	128.3	0.1%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	115	79746	144.2	118.6	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	103	79799	129.1	100.1	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	134	79989	167.5	127.6	0.1%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	125	80124	156.0	113.1	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	121	79780	151.7	110.8	0.0%
+	"Shasta County, CA"	"06089"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	127	79642	159.5	113.5	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	31	20548	150.9	90.0	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	20	20454	97.8	57.3	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	28	20577	136.1	82.4	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	19	20437	93.0 (Unreliable)	52.9 (Unreliable)	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	28	20450	136.9	79.8	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	28	20301	137.9	84.4	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	23	20042	114.8	70.9	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	27	19748	136.7	79.1	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	31	19636	157.9	95.6	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	35	19589	178.7	91.3	0.0%
+	"Siskiyou County, CA"	"06093"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	32	19601	163.3	86.1	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	33	20064	164.5	122.2	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	43	20057	214.4	153.4	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	22	20201	108.9	74.2	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	23	20226	113.7	85.9	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	31	20304	152.7	127.8	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	33	20077	164.4	104.4	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	24	19773	121.4	79.7	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	25	19504	128.2	85.5	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	35	19450	179.9	129.9	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	29	19402	149.5	93.4	0.0%
+	"Siskiyou County, CA"	"06093"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	41	19417	211.2	121.7	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	13	37583	34.6 (Unreliable)	36.4 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2006"	"2006"	"Black or African American"	"2054-5"	11	33846	32.5 (Unreliable)	45.3 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	136	129413	105.1	94.9	0.1%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2007"	"2007"	"Black or African American"	"2054-5"	12	34139	35.2 (Unreliable)	46.5 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	118	128612	91.7	80.4	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	13	38691	33.6 (Unreliable)	36.6 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	108	128131	84.3	72.8	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	12	39201	30.6 (Unreliable)	31.4 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2009"	"2009"	"Black or African American"	"2054-5"	16	34800	46.0 (Unreliable)	58.1 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	117	128352	91.2	77.8	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	12	39718	30.2 (Unreliable)	31.7 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2010"	"2010"	"Black or African American"	"2054-5"	16	35165	45.5 (Unreliable)	61.2 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	116	129084	89.9	75.5	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	10	40262	24.8 (Unreliable)	24.2 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2011"	"2011"	"Black or African American"	"2054-5"	18	35180	51.2 (Unreliable)	60.0 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	111	130050	85.4	71.6	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	13	40901	31.8 (Unreliable)	29.3 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2012"	"2012"	"Black or African American"	"2054-5"	12	35172	34.1 (Unreliable)	39.5 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	117	131277	89.1	73.7	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	10	41486	24.1 (Unreliable)	20.9 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2013"	"2013"	"Black or African American"	"2054-5"	12	35591	33.7 (Unreliable)	39.6 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	140	132556	105.6	84.6	0.1%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	14	42264	33.1 (Unreliable)	27.4 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2014"	"2014"	"Black or African American"	"2054-5"	13	36108	36.0 (Unreliable)	39.4 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	116	134257	86.4	66.7	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	16	43241	37.0 (Unreliable)	28.1 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2015"	"2015"	"Black or African American"	"2054-5"	19	36465	52.1 (Unreliable)	56.8 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	131	135524	96.7	73.0	0.1%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	21	44268	47.4	33.4	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2016"	"2016"	"Black or African American"	"2054-5"	21	36957	56.8	56.6	0.0%
+	"Solano County, CA"	"06095"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	122	136869	89.1	67.3	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2006"	"2006"	"Black or African American"	"2054-5"	12	35264	34.0 (Unreliable)	66.0 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	113	133551	84.6	108.1	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2007"	"2007"	"Black or African American"	"2054-5"	13	35544	36.6 (Unreliable)	80.0 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	105	132518	79.2	97.7	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	12	34250	35.0 (Unreliable)	57.9 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2008"	"2008"	"Black or African American"	"2054-5"	14	35883	39.0 (Unreliable)	65.1 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	106	131702	80.5	101.1	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	12	34642	34.6 (Unreliable)	60.3 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2009"	"2009"	"Black or African American"	"2054-5"	20	35847	55.8	101.9	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	126	131250	96.0	112.2	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	25	35023	71.4	122.8	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2010"	"2010"	"Black or African American"	"2054-5"	10	36075	27.7 (Unreliable)	40.4 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	117	131796	88.8	102.6	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	17	35347	48.1 (Unreliable)	69.6 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2011"	"2011"	"Black or African American"	"2054-5"	28	36041	77.7	118.5	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	121	133003	91.0	107.2	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	14	35763	39.1 (Unreliable)	56.3 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2012"	"2012"	"Black or African American"	"2054-5"	21	35893	58.5	73.6	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	113	134209	84.2	94.6	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	18	36058	49.9 (Unreliable)	64.8 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2013"	"2013"	"Black or African American"	"2054-5"	13	35945	36.2 (Unreliable)	54.1 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	125	135543	92.2	104.2	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	17	36569	46.5 (Unreliable)	49.6 (Unreliable)	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2014"	"2014"	"Black or African American"	"2054-5"	28	36430	76.9	93.2	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	133	137156	97.0	104.0	0.1%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	22	37300	59.0	69.1	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2015"	"2015"	"Black or African American"	"2054-5"	21	36719	57.2	75.4	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	117	138141	84.7	89.1	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	26	38159	68.1	67.6	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2016"	"2016"	"Black or African American"	"2054-5"	22	37278	59.0	74.7	0.0%
+	"Solano County, CA"	"06095"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	95	139620	68.0	69.8	0.0%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	195	214748	90.8	64.3	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	193	215301	89.6	60.5	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	193	217501	88.7	57.5	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	199	219834	90.5	60.7	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	207	221509	93.4	63.4	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	168	223411	75.2	49.4	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	200	224567	89.1	58.5	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	192	226187	84.9	53.0	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	164	228198	71.9	45.0	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	203	229036	88.6	54.2	0.1%
+	"Sonoma County, CA"	"06097"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	175	229430	76.3	45.4	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	172	208492	82.5	86.7	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	171	209000	81.8	84.8	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	167	210904	79.2	79.5	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	166	212900	78.0	77.9	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	170	214278	79.3	75.7	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	146	215446	67.8	64.1	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	156	216378	72.1	65.7	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	153	217955	70.2	64.7	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	141	219387	64.3	55.9	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	153	219856	69.6	57.8	0.1%
+	"Sonoma County, CA"	"06097"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	160	219976	72.7	59.8	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	202	223779	90.3	87.8	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	207	224402	92.2	89.4	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	158	224300	70.4	66.4	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	158	224750	70.3	65.5	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	181	225534	80.3	75.0	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	201	227029	88.5	81.9	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	195	228147	85.5	77.0	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	174	229456	75.8	66.6	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	163	231259	70.5	59.9	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	246	233208	105.5	90.6	0.1%
+	"Stanislaus County, CA"	"06099"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	203	235361	86.3	74.1	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	166	219478	75.6	107.7	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	165	220078	75.0	103.4	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	173	219876	78.7	107.0	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	150	220064	68.2	89.3	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	193	220548	87.5	114.1	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	145	221973	65.3	80.3	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	198	223052	88.8	107.4	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	181	224428	80.6	96.0	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	184	226160	81.4	93.4	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	215	228255	94.2	105.5	0.1%
+	"Stanislaus County, CA"	"06099"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	181	230074	78.7	87.9	0.1%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	45	36625	122.9	104.0	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	47	37121	126.6	105.6	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	36	37219	96.7	78.9	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	10	7695	130.0 (Unreliable)	158.6 (Unreliable)	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	33	37278	88.5	74.2	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	43	37247	115.4	93.1	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	36	37011	97.3	77.3	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	39	36734	106.2	80.7	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	51	36764	138.7	106.2	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	37	36696	100.8	80.9	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	39	36810	105.9	82.4	0.0%
+	"Sutter County, CA"	"06101"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	44	36817	119.5	90.3	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	34	36273	93.7	117.4	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	29	36774	78.9	97.6	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	23	36873	62.4	75.2	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	39	36709	106.2	120.0	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	40	36590	109.3	128.7	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	40	36311	110.2	120.7	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	22	36098	60.9	66.6	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	38	36175	105.0	104.5	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	33	36144	91.3	89.4	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	32	36175	88.5	80.8	0.0%
+	"Sutter County, CA"	"06101"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	38	36280	104.7	95.5	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	46	29155	157.8	116.8	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	42	29404	142.8	106.7	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	50	29450	169.8	122.9	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	25	29493	84.8	59.2	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	28	29736	94.2	67.4	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	38	29588	128.4	89.8	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	39	29498	132.2	94.1	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	29	29305	99.0	66.6	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	40	29272	136.6	91.2	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	45	29385	153.1	103.5	0.0%
+	"Tehama County, CA"	"06103"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	48	29450	163.0	106.6	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	44	28902	152.2	137.2	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	40	29054	137.7	125.0	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	45	29327	153.4	147.0	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	51	29345	173.8	157.8	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	42	29531	142.2	125.3	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	37	29369	126.0	109.6	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	44	29298	150.2	132.0	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	32	29116	109.9	90.5	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	37	28953	127.8	99.5	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	36	29078	123.8	99.9	0.0%
+	"Tehama County, CA"	"06103"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	41	29050	141.1	113.6	0.0%
+	"Trinity County, CA"	"06105"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	10	6110	163.7 (Unreliable)	109.7 (Unreliable)	0.0%
+	"Trinity County, CA"	"06105"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	10	5853	170.9 (Unreliable)	96.6 (Unreliable)	0.0%
+	"Trinity County, CA"	"06105"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	10	5784	172.9 (Unreliable)	94.0 (Unreliable)	0.0%
+	"Trinity County, CA"	"06105"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	13	6475	200.8 (Unreliable)	156.0 (Unreliable)	0.0%
+	"Trinity County, CA"	"06105"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	15	6251	240.0 (Unreliable)	146.1 (Unreliable)	0.0%
+	"Trinity County, CA"	"06105"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	11	5916	185.9 (Unreliable)	93.2 (Unreliable)	0.0%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	137	187968	72.9	80.9	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	141	190843	73.9	81.9	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	111	193560	57.3	62.5	0.0%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	167	196523	85.0	94.5	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	132	198512	66.5	74.0	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	162	200693	80.7	87.6	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	150	202179	74.2	79.5	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	156	203392	76.7	81.2	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	150	204672	73.3	77.8	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	147	205601	71.5	75.8	0.1%
+	"Tulare County, CA"	"06107"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	156	206456	75.6	77.0	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	121	188832	64.1	94.3	0.0%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	123	191708	64.2	95.9	0.0%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	129	194616	66.3	99.4	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	127	197458	64.3	97.1	0.0%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	136	199251	68.3	101.6	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	159	201611	78.9	115.1	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	144	203012	70.9	98.8	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	156	204048	76.5	110.3	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	144	205122	70.2	94.7	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	131	205775	63.7	84.5	0.1%
+	"Tulare County, CA"	"06107"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	152	206607	73.6	97.3	0.1%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	27	25575	105.6	62.5	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	34	25320	134.3	73.8	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	42	25269	166.2	86.4	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	30	25038	119.8	63.5	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	36	24762	145.4	82.5	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	34	24469	139.0	69.3	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	32	24285	131.8	63.1	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	41	24326	168.5	84.6	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	31	24202	128.1	68.4	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	29	24189	119.9	71.4	0.0%
+	"Tuolumne County, CA"	"06109"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	37	24228	152.7	75.7	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	30	27621	108.6	83.9	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	15	27432	54.7 (Unreliable)	45.3 (Unreliable)	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	29	27374	105.9	80.6	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	26	27094	96.0	74.1	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	33	26874	122.8	84.6	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	21	26429	79.5	58.9	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	34	26064	130.4	87.1	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	36	25878	139.1	89.9	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	38	25792	147.3	95.0	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	38	25584	148.5	93.7	0.0%
+	"Tuolumne County, CA"	"06109"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	46	25613	179.6	105.0	0.0%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	261	352535	74.0	65.6	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	12	33239	36.1 (Unreliable)	41.9 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	227	352220	64.4	56.9	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	227	353928	64.1	55.7	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	249	357204	69.7	60.5	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	11	35809	30.7 (Unreliable)	34.5 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	239	359932	66.4	54.9	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	243	362663	67.0	54.4	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	12	37121	32.3 (Unreliable)	31.7 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	229	364450	62.8	50.8	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	14	37729	37.1 (Unreliable)	34.7 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	243	366401	66.3	52.2	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	222	368163	60.3	47.2	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	250	369057	67.7	52.1	0.1%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	16	39995	40.0 (Unreliable)	35.0 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	219	369087	59.3	43.4	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	204	351571	58.0	77.1	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	188	350859	53.6	68.4	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	231	352444	65.5	81.2	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	12	30524	39.3 (Unreliable)	60.5 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	204	355154	57.4	68.6	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	11	31282	35.2 (Unreliable)	53.0 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	188	357841	52.5	62.7	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	200	359754	55.6	62.9	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	193	360625	53.5	60.5	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	222	362164	61.3	67.8	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	200	363285	55.1	59.8	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	10	34026	29.4 (Unreliable)	36.3 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	197	364167	54.1	55.7	0.1%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	14	34768	40.3 (Unreliable)	45.9 (Unreliable)	0.0%
+	"Ventura County, CA"	"06111"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	236	364229	64.8	64.2	0.1%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	84	78241	107.4	102.4	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	61	79626	76.6	72.4	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	69	80407	85.8	77.9	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	71	80920	87.7	80.2	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	72	81056	88.8	76.8	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	78	81396	95.8	86.4	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	73	82284	88.7	77.0	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	73	82864	88.1	77.7	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	56	83424	67.1	57.3	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	62	84482	73.4	64.4	0.0%
+	"Yolo County, CA"	"06113"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	59	85482	69.0	55.5	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	78	75020	104.0	145.4	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	57	76322	74.7	104.0	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	52	76937	67.6	86.4	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	68	77508	87.7	112.4	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	63	77546	81.2	106.0	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	73	77759	93.9	115.8	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	63	78545	80.2	98.1	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	51	79289	64.3	74.5	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	72	80096	89.9	105.0	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	63	81028	77.8	86.7	0.0%
+	"Yolo County, CA"	"06113"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	60	81779	73.4	80.6	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2006"	"2006"	"White"	"2106-3"	32	28651	111.7	119.1	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2007"	"2007"	"White"	"2106-3"	33	29182	113.1	123.0	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2008"	"2008"	"White"	"2106-3"	27	29568	91.3	102.5	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2009"	"2009"	"White"	"2106-3"	27	29440	91.7	97.5	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2010"	"2010"	"White"	"2106-3"	27	29644	91.1	94.3	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2011"	"2011"	"White"	"2106-3"	38	29794	127.5	133.6	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2012"	"2012"	"White"	"2106-3"	31	29866	103.8	103.0	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2013"	"2013"	"White"	"2106-3"	47	29971	156.8	160.9	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2014"	"2014"	"White"	"2106-3"	27	30168	89.5	84.5	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2015"	"2015"	"White"	"2106-3"	31	30326	102.2	100.4	0.0%
+	"Yuba County, CA"	"06115"	"Female"	"F"	"2016"	"2016"	"White"	"2106-3"	39	30528	127.8	118.0	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2006"	"2006"	"White"	"2106-3"	33	29171	113.1	163.1	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2007"	"2007"	"White"	"2106-3"	26	29672	87.6	121.6	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2008"	"2008"	"White"	"2106-3"	24	30102	79.7	105.3	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2009"	"2009"	"White"	"2106-3"	21	29994	70.0	92.2	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2010"	"2010"	"White"	"2106-3"	20	30121	66.4	87.5	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2011"	"2011"	"White"	"2106-3"	30	30270	99.1	110.7	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2012"	"2012"	"White"	"2106-3"	31	30470	101.7	131.0	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2013"	"2013"	"White"	"2106-3"	36	30585	117.7	152.7	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2014"	"2014"	"White"	"2106-3"	41	30839	132.9	156.5	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2015"	"2015"	"White"	"2106-3"	37	30989	119.4	133.2	0.0%
+	"Yuba County, CA"	"06115"	"Male"	"M"	"2016"	"2016"	"White"	"2106-3"	39	31258	124.8	132.0	0.0%
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Title: California Mortality"
+"ICD-10 Codes: J00-J98 (Diseases of the respiratory system)"
+"States: California (06)"
+"Year: 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016"
+"Group By: County; Gender; Year; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: May 12, 2021 9:43:43 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No."
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on May 12, 2021 9:43:43 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than"
+"10. Figures representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Racial Differences."
+"9. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
