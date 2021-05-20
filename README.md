@@ -1,4 +1,6 @@
-# Analysis of Pollutants in California
+![image](https://user-images.githubusercontent.com/78628287/119001839-576eb380-b95a-11eb-865f-a6ea019034af.png)
+# Analysis of Pollutants in California 
+
 
 Project 1 for Rutgers Data Science Bootcamp
 
