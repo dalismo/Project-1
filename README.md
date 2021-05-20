@@ -48,4 +48,6 @@ Senate Bill No. 1368 Electricity: emissions of greenhouse gases.
 
 ## Conclusion
   
-  Based on our analysis of of the data we found no correlation between increased amounts of pollution that affect the AQI that leads to more deaths caused by chronic lower respiratory diseases. On the otherhand, there were decreases across all pollutants that could be attributed to the California Senate Bill No. 1368 signed in 2006 that instituted emissions standards that affect the output of greenhouse gases. There are anomalies in the data though that were interesting. As an example Imperial county in southern California is susceptible to wildfires which can cause the levels of CO to be elevated as a result.
+  Based on our analysis of of the data we found no correlation between increased amounts of pollution that affect the AQI that leads to more deaths caused by chronic lower respiratory diseases. On the otherhand, there were decreases across all pollutants that could be attributed to the California Senate Bill No. 1368 signed in 2006 that instituted emissions standards that affect the output of greenhouse gases. The purpose of the bill was to lower the emmissions of these gases into the atmosphere and promote cleaner energy.  
+  
+  There are also anomalies in the data though that were interesting. As an example Imperial county in southern California which is susceptible to wildfires had increased levels of CO which can come from these occurences.
