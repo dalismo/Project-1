@@ -21,3 +21,8 @@ Underlying Cause of Death, 2000-2010 Request for California
 
 ### [web.archive.org](https://web.archive.org/web/20181119041829/http://www.fire.ca.gov/fire_protection/downloads/siege/2007/Overview_CompleteFinal.pdf)
 California Fire Siege 2007 
+
+### [leginfo.legislature.ca.gov](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=200520060SB1368)
+Senate Bill No. 1368 Electricity: emissions of greenhouse gases.
+
+
