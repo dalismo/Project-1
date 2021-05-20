@@ -30,7 +30,7 @@ Senate Bill No. 1368 Electricity: emissions of greenhouse gases.
 
 **1.** Are deaths caused by chronic lower diseases (CLRD) directly linked to pollutants?
 
-**2.** Are we able to explain the increase and decrease in the Air Quality Index (AQI) associated with carbon monoxide (CO), ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2)?
+**2.** Are we able to explain increases and decreases in the Air Quality Index (AQI) associated with carbon monoxide (CO), ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2)?
 
 **3.** Can we prove that there is a lag between the consumption of pollutants and mortality rate?
 
