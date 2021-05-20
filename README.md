@@ -28,11 +28,11 @@ Senate Bill No. 1368 Electricity: emissions of greenhouse gases.
 
 #### Questions posed on data
 
-1. Are deaths caused by chronic lower diseases (CLRD) directly linked to pollutants?
+**1.** Are deaths caused by chronic lower diseases (CLRD) directly linked to pollutants?
 
-2. Are we able to explain the increase and decrease in the Air Quality Index (AQI) associated with carbon monoxide (CO), ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2)?
+**2.** Are we able to explain the increase and decrease in the Air Quality Index (AQI) associated with carbon monoxide (CO), ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2)?
 
-3. Can we prove that there is a lag between the consumption of pollutants and mortality rate?
+**3.** Can we prove that there is a lag between the consumption of pollutants and mortality rate?
 
 ### Null and Alternative Hypothesis
 
@@ -42,5 +42,5 @@ Senate Bill No. 1368 Electricity: emissions of greenhouse gases.
 
 ## Summary
 
-  Our group intended to use US pollution data from 2000 to 2016 to see how the Air Quality Index is adversely affected by carbon monoxide (CO), ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2). Initially we focused on the entirety of the US but the data was too large. Amongst ourselves we came to the conclusion to focus on California since the state is the most populated and also has the largest economy. 
+  Our group used US pollution data from 2000 to 2016 to see how the Air Quality Index is adversely affected by carbon monoxide (CO), ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2). Initially we focused on the entirety of the US but the data set was too large. Amongst ourselves we came to the conclusion to focus on California since the state is the most populated and also has the largest economy. Because of it's vast industry it would also have increased amounts of pollution affecting the air quality. As we analyzed and cleaned the data we then focused on a few counties. With the pollution data for those counties we then downloaded mortality information from teh CDC website for the state of California for the years 2000 - 2010 concentrating on deaths caused by chronic lower respiratory diseases. Luckliy that data was also by county. This would allow us to merge the data for further research. 
 
