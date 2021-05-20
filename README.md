@@ -25,4 +25,12 @@ California Fire Siege 2007
 ### [leginfo.legislature.ca.gov](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=200520060SB1368)
 Senate Bill No. 1368 Electricity: emissions of greenhouse gases.
 
+#### Questions posed on data
+
+1. Are deaths caused by chronic lower diseases (CLRD) directly linked to pollutants?
+
+2. Are we able to explain the increase and decrease in the Air Quality Index (AQI) associated with carbon monoxide (CO), Ozone (O3), Nitrogen dioxide (NO2) and sulfur dioxide (SO2)?
+
+3. Can we prove that there is a lag between the consumption of pollutants and mortality rate?
+
 
