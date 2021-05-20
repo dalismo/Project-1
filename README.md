@@ -9,3 +9,5 @@ Project 1 for Rutgers Data Science Bootcamp
 * [Abayomi Olujobi]
 * [Elise Eng]
 * [Bertrand Louis]
+
+# Data Sources and Supplemental Information
