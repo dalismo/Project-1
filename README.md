@@ -95,7 +95,7 @@ Between 2006 and 2010 and in all 18 California counties…
 *Analysis of Mean of 4 different AQI levels in California counties*
 
 
-    <img src="https://github.com/dalismo/Project-1/blob/d22c77172946baee473582b90a0eebebc0b1046f/mq_charts/years_co.png">
+    ![image](https://user-images.githubusercontent.com/78628287/119407928-ee1cd680-bcb2-11eb-9f17-845ab997b412.png)
 
  * Average CO AQI (2006-2010) vs. Counties: we found that Imperial county has the highest levels of CO (16 ppm). 
       * We think it's possibly due to the wildfires that are a prominent challenge in SoCal, especially during the hot and dry season.
@@ -123,7 +123,7 @@ Between 2006 and 2010 and in all 18 California counties…
 
 **Average Air Pollutants Over Time**
 
-    <img src="http://localhost:8888/view/mq_charts/years_avg_pollutants.png">
+    ![image](https://user-images.githubusercontent.com/78628287/119408050-1573a380-bcb3-11eb-923b-4c6e846a1d48.png)
 
 *Observed Trend : There is an overall decline of  Average Pollutants’ AQI  Levels for California State from 2006 to 2010.*
 
