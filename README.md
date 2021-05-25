@@ -81,13 +81,33 @@ In summary, our mission, as data science and health enthusiasts, was to find if 
 **Are deaths caused by chronic lower respiratory diseases (CLRD) linked to changes in AQI and air pollutant levels?** 
 
 Between 2006 and 2010 and in all 18 California counties…
+
+   <img src="https://github.com/dalismo/Project-1/blob/main/Images/co_corr.png">
+
   * CO AQI vs. total mortality due to CLRD: The R-Value is 0.7543850834952978 
+  <img src="https://github.com/dalismo/Project-1/blob/main/Images/co_corr_map.png">
+  
    - [x] This indicates a strong correlation between higher CO AQI and death from Chronic Lower Respiratory Disease.
-  * NO<sub>2</sub> AQI vs. total mortality due to CLRD: The R-Value is 0.8827775793559318 
+---
+   <img src="https://github.com/dalismo/Project-1/blob/main/Images/no2_corr.png">
+   
+  * NO<sub>2</sub> AQI vs. total mortality due to CLRD: The R-Value is 0.8827775793559318
+   <img src="https://github.com/dalismo/Project-1/blob/main/Images/no2_corr_map.png">
+        
    - [x] This indicates a very strong correlation between higher NO<sub>2</sub> AQI and death from Chronic Respiratory Disease.
+  ---
+  <img src="https://github.com/dalismo/Project-1/blob/main/Images/so2_corr.png">
+   
   * SO<sub>2</sub> AQI vs. total mortality due to CLRD: The R-Value is 0.6170401313230505 
+  <img src="https://github.com/dalismo/Project-1/blob/main/Images/so2_corr_map.png">
+       
    - [x] This indicates a fairly strong correlation between higher SO<sub>2</sub> AQI and death from Chronic Respiratory Disease.
+  ---
+  <img src="https://github.com/dalismo/Project-1/blob/main/Images/o3_corr.png">
+  
   * O<sub>3</sub> AQI vs. total mortality due to CLRD: The R-Value is 0.5435496110691815 
+  <img src="https://github.com/dalismo/Project-1/blob/main/Images/o3_corr_map.png">
+       
    - [x] This indicates a moderate correlation between higher O<sub>3</sub> AQI and death from Chronic Respiratory Disease.
 
 ### QUESTION 2
@@ -96,35 +116,35 @@ Between 2006 and 2010 and in all 18 California counties…
 *Analysis of Mean of 4 different AQI levels in California counties*
 
 
-    ![image](https://user-images.githubusercontent.com/78628287/119407928-ee1cd680-bcb2-11eb-9f17-845ab997b412.png)
+<img src="https://github.com/dalismo/Project-1/blob/main/Images/pollutants_charts/counties_co.png">
 
  * Average CO AQI (2006-2010) vs. Counties: we found that Imperial county has the highest levels of CO (16 ppm). 
       * We think it's possibly due to the wildfires that are a prominent challenge in SoCal, especially during the hot and dry season.
       * For reference, the U.S. National Ambient Air Quality Standards for CO for 8 hours is 9 ppm(parts per million).
-
-    ![image](https://user-images.githubusercontent.com/78628287/119404842-6208b000-bcae-11eb-9967-504c5ce4dd10.png)
+---
+<img src="https://github.com/dalismo/Project-1/blob/main/Images/pollutants_charts/counties_no2.png">
           
  * Average NO<sub>2</sub> AQI (2006-2010) vs. Counties: LA and San Bernardino have the highest levels of NO<sub>2</sub>, but they are still below the EPA standard. 
     * High levels of NO<sub>2</sub> could be linked to the notorious LA traffic, numerous fossil fuel plants and industries, and consistent drought conditions. Additionally, geographically the LA county is a large basin with the Pacific Ocean and surrounded by several mountain ranges with 11,000-foot peaks in the east and south. The health problems that possibly follow could be asthma and respiratory infections.
     * For reference, the EPA annual average NO2 standard is 53 ppb.
-
-   ![image](https://user-images.githubusercontent.com/78628287/119405055-aeec8680-bcae-11eb-8ae1-5201d3aba3c0.png)
+---
+<img src="https://user-images.githubusercontent.com/78628287/119405153-d2afcc80-bcae-11eb-8c59-35290879e84a.png">
 
 * Average SO<sub>2</sub> AQI (2006-2010) vs. Counties: San Diego and Contra Costa have the highest levels. 
     * One factor could be that SD is part of the San Diego Air Basin (SDAB), a subtropical climate zone characterized by hot/dry summers and mild/wet winters. Additionally, a combination of light winds, stagnant air, little precipitation, and 170+ days of over 70 degrees weather create the ideal conditions for pollution accumulation in the atmosphere. 
     * For reference, in 2010, the Primary National Ambient Air Quality Standard (NAAQS) for Sulfur Dioxide was implemented, establishing the standard to be 75 parts per billion.
-
-     ![image](https://user-images.githubusercontent.com/78628287/119405153-d2afcc80-bcae-11eb-8c59-35290879e84a.png)
+---
+<img src="https://user-images.githubusercontent.com/78628287/119405274-fa9f3000-bcae-11eb-96e7-953e30babe69.png">
 
   * Average O<sub>3</sub> AQI (2006-2010) vs. Counties: Fresno, Riverside, and San Bernardino have the maximum levels respectively 
     * Ground-level ozone is created when sunlight strikes pollutants called nitrogen oxides found in the air.
     * Riverside and San Bernardino counties are located in SoCal where there is constant sunshine and heat is the norm, ozone levels tend to be more elevated. 
-    
-    ![image](https://user-images.githubusercontent.com/78628287/119405274-fa9f3000-bcae-11eb-96e7-953e30babe69.png)
+---    
 
-**Average Air Pollutants Over Time**
 
-    ![image](https://user-images.githubusercontent.com/78628287/119408050-1573a380-bcb3-11eb-923b-4c6e846a1d48.png)
+***Average Air Pollutants Over Time***
+
+<img src="https://user-images.githubusercontent.com/78628287/119408050-1573a380-bcb3-11eb-923b-4c6e846a1d48.png">
 
 *Observed Trend : There is an overall decline of  Average Pollutants’ AQI  Levels for California State from 2006 to 2010.*
 
@@ -132,6 +152,8 @@ Between 2006 and 2010 and in all 18 California counties…
       * [Reference](https://en.wikipedia.org/wiki/Global_Warming_Solutions_Act_of_2006) 
 
 ### Mortality in California from 2006-2010
+
+   <img src="https://github.com/dalismo/Project-1/blob/d22c77172946baee473582b90a0eebebc0b1046f/piechart.png">
 
   * Chronic lower respiratory diseases have the highest percentage rate at 31.11 %. This category includes...
     * J40  Bronchitis, not specified as acute or chronic
@@ -147,7 +169,6 @@ Between 2006 and 2010 and in all 18 California counties…
   * Thus, about 58% of all of the respiratory diseases come from CLRD.
   * Asthma (0.52%), pneumonitis due to solid & liquid (1.36%), and emphysema (2.14%) are the lowest causes of deaths
   * Influenza & pneumonia (16.50%) J09-J18 and just pneumonia (16.15%) J12-J18
-<img src="https://github.com/dalismo/Project-1/blob/d22c77172946baee473582b90a0eebebc0b1046f/piechart.png">
 
 ### Question 3
 **If we find trends that deaths and pollution are correlated, can we further prove that there is a delayed effect from exposure to toxic air pollutants on the mortality rate caused by CLRD?**
@@ -158,17 +179,17 @@ We examined 4 of the most populous counties in California (from 2006 to 2010) to
 <img src="https://github.com/dalismo/Project-1/blob/d22c77172946baee473582b90a0eebebc0b1046f/LA_Pollutants.png">
   * In LA county, Mortality from CLRD vs. Total AQI of 4 Pollutants: 
     * There's opposing trends seen when comparing all four air pollutants to mortality rate between 2006 and 2010. For instance, as CO AQI decreased, mortality rate increased. In 2009, mortality in LA reached its peak while all four pollutants dropped its lowest within that time frame. In conclusion, there is not enough evidence to prove that there is a delayed reaction between an overall decrease in toxic air pollutants and changes in mortality rate due to CLRD.
-
+---
 ***Contra Costa County***
 <img src="https://github.com/dalismo/Project-1/blob/d22c77172946baee473582b90a0eebebc0b1046f/ContraCosta_Pollutants.png">
   * In Contra Costa county, Mortality from CLRD vs. Total AQI of 4 Pollutants:
     * Contrarily to LA county, Contra Costa county exhibits a better story. As all four air pollutants AQI levels dropped overall, mortality rate seemed to follow a similar trend from 2008. There seems to be a delayed reaction to the decrease in pollution and mortality rate in Contra Costa. 
-
+---
 ***SD County***
 <img src="https://github.com/dalismo/Project-1/blob/d22c77172946baee473582b90a0eebebc0b1046f/SD_Pollutants.png">
   * In SD county, Mortality from CLRD vs. Total AQI of 4 Pollutants:
     * Similarly to LA county, SD county does not have a clear storyline. SD exhibits fluctuations in all four pollutant levels as it initially decreases in 2007, rises in 2008, drops again in 2009, and then reaches a new peak in 2010. There is a slight delay correlation between the rise and dip in pollution levels with mortality decreasing from 2008 to 2010. 
-
+---
 ***San Bernardino County***
 <img src="https://github.com/dalismo/Project-1/blob/d22c77172946baee473582b90a0eebebc0b1046f/SB_Pollutants.png">
   * In San Bernardino county, Mortality from CLRD vs. Total AQI of 4 Pollutants:
